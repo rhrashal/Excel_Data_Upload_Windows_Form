@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel_Upload_To_DataGridView_SQL_Server", "Excel_Upload_To_DataGridView_SQL_Server\Excel_Upload_To_DataGridView_SQL_Server.csproj", "{D6B6A42E-8BFA-44F5-9F36-1780F5E3E116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B6A42E-8BFA-44F5-9F36-1780F5E3E116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B6A42E-8BFA-44F5-9F36-1780F5E3E116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B6A42E-8BFA-44F5-9F36-1780F5E3E116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B6A42E-8BFA-44F5-9F36-1780F5E3E116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBB3B45D-E138-430C-AB22-146DF58FC02D}
+	EndGlobalSection
+EndGlobal
